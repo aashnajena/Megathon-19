@@ -1,0 +1,874 @@
+ 
+
+
+
+
+
+
+
+
+Unit 2
+Solutions
+
+
+Almost all processes in body occur in some kind of liquid solutions.
+
+Objectives
+
+
+
+
+
+After studying this Unit, you will be able to
+
+
+describe the formation of different types of solutions;
+express concentration of solution in different units;
+state and explain Henry’s law and Raoult’s law;
+distinguish between ideal and non-ideal solutions;
+explain deviations of real solutions from Raoult’s law;
+describe colligative properties of solutions and correlate these with molar masses of the solutes;
+explain abnormal colligative properties exhibited by some solutes in solutions.
+
+
+
+
+
+
+      In normal life we rarely come across pure substances. Most of these are mixtures containing two or more pure substances. Their utility or importance in life depends on their composition. For example, the properties of brass (mixture of copper and zinc) are quite different from those of German silver (mixture of copper, zinc and nickel) or bronze (mixture of copper and tin); 1 part per million (ppm) of fluoride ions in water prevents tooth decay, while 1.5 ppm causes the tooth to become mottled and high concentrations of fluoride ions can be poisonous (for example, sodium fluoride is used in rat poison); intravenous injections are always dissolved in water containing salts at particular ionic concentrations that match with blood plasma concentrations and so on.
+    
+In this Unit, we will consider mostly liquid solutions and their formation. This will be followed by studying the properties of the solutions, like vapour pressure and colligative properties. We will begin with types of solutions and then various alternatives in which concentrations of a solute can be expressed in liquid solution.
+
+
+2.1 Types of Solutions
+
+
+Solutions are homogeneous mixtures of two or more than two components. By homogenous mixture we mean that its composition and properties are uniform throughout the mixture. Generally, the component that is present in the largest quantity is known as solvent. Solvent determines the physical state in which solution exists. One or more components present in the solution other than solvent are called solutes. In this Unit we shall consider only binary solutions (i.e., consisting of two components). Here each component may be solid, liquid or in gaseous state and are summarised in Table 2.1.
+
+
+
+Table 2.1: Types of Solutions
+
+
+
+2.2 Expressing Concentration of Solutions
+
+
+
+Composition of a solution can be described by expressing its concentration. The latter can be expressed either qualitatively or quantitatively. For example, qualitatively we can say that the solution is dilute (i.e., relatively very small quantity of solute) or it is concentrated (i.e., relatively very large quantity of solute). But in real life these kinds of description can add to lot of confusion and thus the need for a quantitative description of the solution.
+There are several ways by which we can describe the concentration of the solution quantitatively.
+(i) Mass percentage (w/w): The mass percentage of a component of a solution is defined as:
+Mass % of a component
+=                               (2.1)
+For example, if a solution is described by 10% glucose in water by mass, it means that 10 g of glucose is dissolved in 90 g of water resulting in a 100 g solution. Concentration described by mass percentage is commonly used in industrial chemical applications. For example, commercial bleaching solution contains 3.62 mass percentage of sodium hypochlorite in water.
+(ii) Volume percentage (v/v): The volume percentage is defined as:
+Volume % of a component =                     (2.2)
+For example, 10% ethanol solution in water means that 10 mL of ethanol is dissolved in water such that the total volume of the solution is 100 mL. Solutions containing liquids are commonly expressed in this unit. For example, a 35% (v/v) solution of ethylene glycol, an antifreeze, is used in cars for cooling the engine. At this concentration the antifreeze lowers the freezing point of water to 255.4K (–17.6°C).
+(iii) Mass by volume percentage (w/v): Another unit which is commonly used in medicine and pharmacy is mass by volume percentage. It is the mass of solute dissolved in 100 mL of the solution.
+(iv) Parts per million: When a solute is present in trace quantities, it is convenient to express concentration in parts per million (ppm) and is defined as:
+Parts per million =       (2.3)
+As in the case of percentage, concentration in parts per million can also be expressed as mass to mass, volume to volume and mass to volume. A litre of sea water (which weighs 1030 g) contains about 6 × 10–3 g of dissolved oxygen (O2). Such a small concentration is also expressed as 5.8 g per 106 g (5.8 ppm) of sea water. The concentration of pollutants in water or atmosphere is often expressed in terms of µg mL–1 or ppm.
+(v) Mole fraction: Commonly used symbol for mole fraction is x and subscript used on the right hand side of x denotes the component. It is defined as:
+Mole fraction of a component =      (2.4)
+For example, in a binary mixture, if the number of moles of A and B are nA and nB respectively, the mole fraction of A will be
+xA =                                                                                                     (2.5)
+For a solution containing i number of components, we have:
+xi =  =                                                                              (2.6)
+It can be shown that in a given solution sum of all the mole fractions is unity, i.e.
+x1 + x2 + .................. + xi = 1                                                                           (2.7)
+Mole fraction unit is very useful in relating some physical properties of solutions, say vapour pressure with the concentration of the solution and quite useful in describing the calculations involving gas mixtures.
+
+Example 2.1
+Calculate the mole fraction of ethylene glycol (C2H6O2) in a solution containing 20% of C2H6O2 by mass.
+Solution
+Assume that we have 100 g of solution (one can start with any amount of solution because the results obtained will be the same). Solution will contain 20 g of ethylene glycol and 80 g of water.
+Molar mass of C2H6O2 = 12 × 2 + 1 × 6 + 16 × 2 = 62 g mol–1.
+Moles of C2H6O2 = = 0.322 mol
+Moles of water =  = 4.444 mol
+
+ = 0.068
+Similarly, 
+
+Mole fraction of water can also be calculated as: 1 – 0.068 = 0.932
+
+(vi) Molarity: Molarity (M) is defined as number of moles of solute dissolved in one litre (or one cubic decimetre) of solution,
+                                                       (2.8)
+For example, 0.25 mol L–1 (or 0.25 M) solution of NaOH means that 0.25 mol of NaOH has been dissolved in one litre (or one cubic decimetre).
+
+Example 2.2
+
+Calculate the molarity of a solution containing 5 g of NaOH in 450 mL solution.
+Solution
+
+
+Moles of NaOH =  = 0.125 mol
+Volume of the solution in litres = 450 mL / 1000 mL L-1
+Using equation (2.8),
+Molarity =  = 0.278 M
+= 0.278 mol L–1
+= 0.278 mol dm–3
+
+
+(vii) Molality: Molality (m) is defined as the number of moles of the solute per kilogram (kg) of the solvent and is expressed as:
+
+
+
+
+
+Molality (m) =                                                              (2.9)
+For example, 1.00 mol kg–1 (or 1.00 m) solution of KCl means that 1 mol (74.5 g) of KCl is dissolved in 1 kg of water.
+Each method of expressing concentration of the solutions has its own merits and demerits. Mass %, ppm, mole fraction and molality are independent of temperature, whereas molarity is a function of temperature. This is because volume depends on temperature and the mass does not.
+
+
+
+Example 2.3
+
+
+Calculate molality of 2.5 g of ethanoic acid (CH3COOH) in 75 g of benzene.
+
+
+Solution
+
+
+Molar mass of C2H4O2: 12 × 2 + 1 × 4 + 16 × 2 = 60 g mol–1
+Moles of C2H4O2 =  = 0.0417 mol
+Mass of benzene in kg = 75 g/1000 g kg–1 = 75 × 10–3 kg
+Molality of C2H4O2 =  = 
+= 0.556 mol kg–1
+
+
+
+
+Intext Questions
+2.1 Calculate the mass percentage of benzene (C6H6) and carbon tetrachloride (CCl4) if 22 g of benzene is dissolved in 122 g of carbon tetrachloride.
+2.2 Calculate the mole fraction of benzene in solution containing 30% by mass in carbon tetrachloride.
+2.3 Calculate the molarity of each of the following solutions: (a) 30 g of Co(NO3)2. 6H2O in 4.3 L of solution (b) 30 mL of 0.5 M H2SO4 diluted to 500 mL.
+2.4 Calculate the mass of urea (NH2CONH2) required in making 2.5 kg of 0.25 molal aqueous solution.
+
+2.5 Calculate (a) molality (b) molarity and (c) mole fraction of KI if the density of 20% (mass/mass) aqueous KI is 1.202 g mL-1.
+
+2.3 Solubility
+Solubility of a substance is its maximum amount that can be dissolved in a specified amount of solvent at a specified temperature. It depends upon the nature of solute and solvent as well as temperature and pressure. Let us consider the effect of these factors in solution of a solid or a gas in a liquid.
+2.3.1 Solubility of a Solid in a Liquid
+Every solid does not dissolve in a given liquid. While sodium chloride and sugar dissolve readily in water, naphthalene and anthracene do not. On the other hand, naphthalene and anthracene dissolve readily in benzene but sodium chloride and sugar do not. It is observed that polar solutes dissolve in polar solvents and non polar solutes in non-polar solvents. In general, a solute dissolves in a solvent if the intermolecular interactions are similar in the two or we may say like dissolves like.
+
+
+When a solid solute is added to the solvent, some solute dissolves and its concentration increases in solution. This process is known as dissolution. Some solute particles in solution collide with the solid solute particles and get separated out of solution. This process is known as crystallisation. A stage is reached when the two processes occur at the same rate. Under such conditions, number of solute particles going into solution will be equal to the solute particles separating out and a state of dynamic equilibrium is reached.
+
+
+Solute + Solvent  ⇋  Solution                                                (2.10)
+At this stage the concentration of solute in solution will remain constant under the given conditions, i.e., temperature and pressure. Similar process is followed when gases are dissolved in liquid solvents. Such a solution in which no more solute can be dissolved at the same temperature and pressure is called a saturated solution. An unsaturated solution is one in which more solute can be dissolved at the same temperature. The solution which is in dynamic equilibrium with undissolved solute is the saturated solution and contains the maximum amount of solute dissolved in a given amount of solvent. Thus, the concentration of solute in such a solution is its solubility.
+Earlier we have observed that solubility of one substance into another depends on the nature of the substances. In addition to these variables, two other parameters, i.e., temperature and pressure also control this phenomenon.
+Effect of temperature
+The solubility of a solid in a liquid is significantly affected by temperature changes. Consider the equilibrium represented by equation 2.10. This, being dynamic equilibrium, must follow Le Chateliers Principle. In general, if in a nearly saturated solution, the dissolution process is endothermic (∆sol H > 0), the solubility should increase with rise in temperature and if it is exothermic (∆sol H < 0) the solubility should decrease. These trends are also observed experimentally.
+Effect of pressure
+Pressure does not have any significant effect on solubility of solids in liquids. It is so because solids and liquids are highly incompressible and practically remain unaffected by changes in pressure.
+
+
+2.3.2 Solubility of a Gas in a Liquid
+
+
+
+
+      Many gases dissolve in water. Oxygen dissolves only to a small extent in water. It is this dissolved oxygen which sustains all aquatic life. On the other hand, hydrogen chloride gas (HCl) is highly soluble in water. Solubility of gases in liquids is greatly affected by pressure and temperature. The solubility of gases increase with increase of pressure. For solution of gases in a solvent, consider a system as shown in Fig. 2.1 (a). The lower part is solution and the upper part is gaseous system at pressure p and temperature T. Assume this system to be in a state of dynamic equilibrium, i.e., under these conditions rate of gaseous particles entering and leaving the solution phase is the same. Now increase the pressure over the solution phase by compressing the gas to a smaller volume [Fig. 2.1 (b)]. This will increase the number of gaseous particles per unit volume over the solution and also the rate at which the gaseous particles are striking the surface of solution to enter it. The solubility of the gas will increase until a new equilibrium is reached resulting in an increase in the pressure of a gas above the solution and thus its solubility increases.
+
+
+
+
+
+Fig. 2.1: Effect of pressure on the solubility of a gas. The concentration of dissolved gas is proportional to the pressure on the gas above the solution.
+
+Henry was the first to give a quantitative relation between pressure and solubility of a gas in a solvent which is known as Henry’s law. The law states that at a constant temperature, the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas present above the surface of liquid or solution. Dalton, a contemporary of Henry, also concluded independently that the solubility of a gas in a liquid solution is a function of partial pressure of the gas. If we use the mole fraction of a gas in the solution as a measure of its solubility, then it can be said that the mole fraction of gas in the solution is proportional to the partial pressure of the gas over the solution. The most commonly used form of Henry’s law states that “the partial pressure of the gas in vapour phase (p) is proportional to the mole fraction of the gas (x) in the solution” and is expressed as:
+p = KH x                                                                                             (2.11)
+Here KH is the Henry’s law constant. If we draw a graph between partial pressure of the gas versus mole fraction of the gas in solution, then we should get a plot of the type as shown in Fig. 2.2.
+
+Fig. 2.2: Experimental results for the solubility of HCl gas in cyclohexane at 293 K. The slope of the line is the Henry’s Law constant, KH.
+Different gases have different KH values at the same temperature (Table 2.2). This suggests that KH is a function of the nature of the gas.
+Table 2.2: Values of Henry’s Law Constant for Some Selected Gases in Water
+It is obvious from equation (2.11) that higher the value of KH at a given pressure, the lower is the solubility of the gas in the liquid. It can be seen from Table 2.2 that KH values for both N2 and O2 increase with increase of temperature indicating that the solubility of gases increases with decrease of temperature. It is due to this reason that aquatic species are more comfortable in cold waters rather than in warm waters.
+
+
+
+
+Example 2.4
+
+
+If N2 gas is bubbled through water at 293 K, how many millimoles of N2 gas would dissolve in 1 litre of water? Assume that N2 exerts a partial pressure of 0.987 bar. Given that Henry’s law constant for N2 at 293 K is 76.48 kbar.
+Solution
+The solubility of gas is related to the mole fraction in aqueous solution. The mole fraction of the gas in the solution is calculated by applying Henry’s law. Thus:
+x (Nitrogen) =  =  = 1.29 × 10–5
+As 1 litre of water contains 55.5 mol of it, therefore if n represents number of moles of N2 in solution,
+x (Nitrogen) =  =  = 1.29 × 10–5
+(n in denominator is neglected as it is < < 55.5)
+Thus n = 1.29 × 10–5 × 55.5 mol = 7.16 × 10–4 mol
+=  = 0.716 mmol
+
+
+
+
+
+
+Henry’s law finds several applications in industry and explains some biological phenomena. Notable among these are:
+
+
+To increase the solubility of CO2 in soft drinks and soda water, the bottle is sealed under high pressure.
+Scuba divers must cope with high concentrations of dissolved gases while breathing air at high pressure underwater. Increased pressure increases the solubility of atmospheric gases in blood. When the divers come towards surface, the pressure gradually decreases. This releases the dissolved gases and leads to the formation of bubbles of nitrogen in the blood. This blocks capillaries and creates a medical condition known as bends, which are painful and dangerous to life. To avoid bends, as well as, the toxic effects of high concentrations of nitrogen in the blood, the tanks used by scuba divers are filled with air diluted with helium (11.7% helium, 56.2% nitrogen and 32.1% oxygen).
+At high altitudes the partial pressure of oxygen is less than that at the ground level. This leads to low concentrations of oxygen in the blood and tissues of people living at high altitudes or climbers. Low blood oxygen causes climbers to become weak and unable to think clearly, symptoms of a condition known as anoxia.
+
+Effect of Temperature
+
+
+      Solubility of gases in liquids decreases with rise in temperature. When dissolved, the gas molecules are present in liquid phase and the process of dissolution can be considered similar to condensation and heat is evolved in this process. We have learnt in the last Section that dissolution process involves dynamic equilibrium and thus must follow Le Chatelier’s Principle. As dissolution is an exothermic process, the solubility should decrease with increase of temperature.
+
+
+
+
+
+
+Intext Questions
+2.6 H2S, a toxic gas with rotten egg like smell, is used for the qualitative analysis. If the solubility of H2S in water at STP is 0.195 m, calculate Henry’s law constant.
+2.7 Henry’s law constant for CO2 in water is 1.67x108 Pa at 298 K. Calculate the quantity of CO2 in 500 mL of soda water when packed under 2.5 atm CO2 pressure at 298 K.
+
+
+2.4 Vapour Pressure of Liquid Solutions
+Liquid solutions are formed when solvent is a liquid. The solute can be a gas, a liquid or a solid. Solutions of gases in liquids have already been discussed in Section 2.3.2. In this Section, we shall discuss the solutions of liquids and solids in a liquid. Such solutions may contain one or more volatile components. Generally, the liquid solvent is volatile. The solute may or may not be volatile. We shall discuss the properties of only binary solutions, that is, the solutions containing two components, namely, the solutions of (i) liquids in liquids and (ii) solids in liquids.
+
+
+2.4.1 Vapour Pressure of Liquid-Liquid Solutions
+
+
+Let us consider a binary solution of two volatile liquids and denote the two components as 1 and 2. When taken in a closed vessel, both the components would evaporate and eventually an equilibrium would be established between vapour phase and the liquid phase. Let the total vapour pressure at this stage be ptotal and p1 and p2 be the partial vapour pressures of the two components 1 and 2 respectively. These partial pressures are related to the mole fractions x1 and x2 of the two components 1 and 2 respectively.
+The French chemist, Francois Marte Raoult (1886) gave the quantitative relationship between them. The relationship is known as the Raoult’s law which states that for a solution of volatile liquids, the partial vapour pressure of each component of the solution is directly proportional to its mole fraction present in solution.
+Thus, for component 1
+p1 ∝ x1
+and p1 =  x1                                                                                                                  (2.12)
+where  is the vapour pressure of pure component 1 at the same temperature.
+Similarly, for component 2
+p2 = p20 x2                                                                                                   (2.13)
+where p20 represents the vapour pressure of the pure component 2.
+According to Dalton’s law of partial pressures, the total pressure () over the solution phase in the container will be the sum of the partial pressures of the components of the solution and is given as:
+ptotal = p1 + p2                                                                                                                    (2.14)
+Substituting the values of p1 and p2, we get
+ptotal = x1 p10 + x2 p20
+= (1 – x2) p10 + x2 p20                                                                                  (2.15)
+= p10 + (p20 – p10) x2                                                                                   (2.16)
+Following conclusions can be drawn from equation (2.16).
+(i) Total vapour pressure over the solution can be related to the mole fraction of any one component.
+(ii) Total vapour pressure over the solution varies linearly with the mole fraction of component 2.
+(iii) Depending on the vapour pressures of the pure components 1 and 2, total vapour pressure over the solution decreases or increases with the increase of the mole fraction of component 1.
+A plot of p1 or p2 versus the mole fractions x1 and x2 for a solution gives a linear plot as shown in Fig. 2.3. These lines (I and II) pass through the points for which x1 and x2 are equal to unity. Similarly the plot (line III) of ptotal versus x2 is also linear (Fig. 2.3). The minimum value of ptotal is p10 and the maximum value is p20, assuming that component 1 is less volatile than component 2, i.e., p10 < p20.
+
+Fig. 2.3: The plot of vapour pressure and mole fraction of an ideal solution at constant temperature. The dashed lines I and II represent the partial pressure of the components. (It can be seen from the plot that p1 and p2 are directly proportional to x1 and x2, respectively). The total vapour pressure is given by line marked III in the figure.
+The composition of vapour phase in equilibrium with the solution is determined by the partial pressures of the components. If y1 and y2 are the mole fractions of the components 1 and 2 respectively in the vapour phase then, using Dalton’s law of partial pressures:
+p1 = y1 ptotal                                                                                                (2.17)
+p2 = y2 ptotal                                                                                                                      (2.18)
+In general
+pi = yi ptotal                                                                                                                        (2.19)
+
+Example 2.5
+Vapour pressure of chloroform (CHCl3) and dichloromethane (CH2Cl2) at 298 K are 200 mm Hg and 415 mm Hg respectively. (i) Calculate the vapour pressure of the solution prepared by mixing 25.5 g of CHCl3 and 40 g of CH2Cl2 at 298 K and, (ii) mole fractions of each component in vapour phase.
+
+
+Solution
+
+
+(i) Molar mass of CH2Cl2 = 12×1+1×2+35.5×2=85 g mol–1
+Molar mass of CHCl3 = 12×1+1×1+35.5×3=119.5 g mol-1
+Moles of CH2Cl2 =  = 0.47 mol
+Moles of CHCl3 =  = 0.213 mol
+Total number of moles = 0.47 + 0.213 = 0.683 mol
+ =  = 0.688
+ = 1.00 – 0.688 = 0.312
+Using equation (2.16),
+ = p10 + (p20 – p10) x2 = 200 + (415 – 200) × 0.688
+= 200 + 147.9 = 347.9 mm Hg
+(ii) Using the relation (2.19), yi = pi/ptotal, we can calculate the mole fraction of the components in gas phase (yi).
+= 0.688 × 415 mm Hg = 285.5 mm Hg
+ = 0.312 × 200 mm Hg = 62.4 mm Hg
+ = 285.5 mm Hg/347.9 mm Hg = 0.82
+ = 62.4 mm Hg/347.9 mm Hg = 0.18
+
+Note: Since, CH2Cl2 is a more volatile component than CHCl3, [= 415 mm Hg and = 200 mm Hg] and the vapour phase is also richer in CH2Cl2[= 0.82 and = 0.18], it may thus be concluded that at equilibrium, vapour phase will be always rich in the component which is more volatile.
+
+
+2.4.2 Raoult’s Law as a special case of Henry’s Law
+
+According to Raoult’s law, the vapour pressure of a volatile component in a given solution is given by pi = xi pi0. In the solution of a gas in a liquid, one of the components is so volatile that it exists as a gas and we have already seen that its solubility is given by Henry’s law which states that
+
+p = KH x.
+If we compare the equations for Raoult’s law and Henry’s law, it can be seen that the partial pressure of the volatile component or gas is directly proportional to its mole fraction in solution. Only the proportionality constant KH differs from p10. Thus, Raoult’s law becomes a special case of Henry’s law in which KH becomes equal to p10.
+2.4.3 Vapour Pressure of Solutions of Solids in Liquids
+Another important class of solutions consists of solids dissolved in liquid, for example, sodium chloride, glucose, urea and cane sugar in water and iodine and sulphur dissolved in carbon disulphide. Some physical properties of these solutions are quite different from those of pure solvents. For example, vapour pressure. We have learnt in Unit 5, Class XI, that liquids at a given temperature vapourise and under equilibrium conditions the pressure exerted by the vapours of the liquid over the liquid phase is called vapour pressure [Fig. 2.4 (a)]. In a pure liquid the entire surface is occupied by the molecules of the liquid. If a non-volatile solute is added to a solvent to give a solution [Fig. 2.4.(b)], the vapour pressure of the solution is solely from the solvent alone. This vapour pressure of the solution at a given temperature is found to be lower than the vapour pressure of the pure solvent at the same temperature. In the solution, the surface has both solute and solvent molecules; thereby the fraction of the surface covered by the solvent molecules gets reduced. Consequently, the number of solvent molecules escaping from the surface is correspondingly reduced, thus, the vapour pressure is also reduced.
+
+
+
+Fig. 2.4: Decrease in the vapour pressure of the solvent on account of the presence of solute in the solvent (a) evaporation of the molecules of the solvent from its surface is denoted by , (b) in a solution, solute particles have been denoted by  and they also occupy part of the surface area.
+The decrease in the vapour pressure of solvent depends on the quantity of non-volatile solute present in the solution, irrespective of its nature. For example, decrease in the vapour pressure of water by adding 1.0 mol of sucrose to one kg of water is nearly similar to that produced by adding 1.0 mol of urea to the same quantity of water at the same temperature.
+
+
+Raoult’s law in its general form can be stated as, for any solution the partial vapour pressure of each volatile component in the solution is directly proportional to its mole fraction.
+In a binary solution, let us denote the solvent by 1 and solute by 2. When the solute is non-volatile, only the solvent molecules are present in vapour phase and contribute to vapour pressure. Let p1 be the vapour pressure of the solvent, x1 be its mole fraction, pi0 be its vapour pressure in the pure state. Then according to Raoult’s law
+p1 ∝ x1
+and p1 = x1                                                                                         (2.20)
+The proportionality constant is equal to the vapour pressure of pure solvent, . A plot between the vapour pressure and the mole fraction of the solvent is linear (Fig. 2.5).
+
+Fig. 2.5 If a solution obeys Raoult’s law for all concentrations, its vapour pressure would vary linearly from zero to the vapour pressure of the pure solvent.
+
+2.5 Ideal and Non-ideal Solutions
+
+
+Liquid-liquid solutions can be classified into ideal and non-ideal solutions on the basis of Raoult’s law.
+2.5.1 Ideal Solutions
+The solutions which obey Raoult’s law over the entire range of concentration are known as ideal solutions. The ideal solutions have two other important properties. The enthalpy of mixing of the pure components to form the solution is zero and the volume of mixing is also zero, i.e.,
+∆mixH = 0 ,              ∆mixV = 0                                                                       (2.21)
+It means that no heat is absorbed or evolved when the components are mixed. Also, the volume of solution would be equal to the sum of volumes of the two components. At molecular level, ideal behaviour of the solutions can be explained by considering two components A and B. In pure components, the intermolecular attractive interactions will be of types A-A and B-B, whereas in the binary solutions in addition to these two interactions, A-B type of interactions will also be present. If the intermolecular attractive forces between the A-A and B-B are nearly equal to those between A-B, this leads to the formation of ideal solution. A perfectly ideal solution is rare but some solutions are nearly ideal in behaviour. Solution of n-hexane and n-heptane, bromoethane and chloroethane, benzene and toluene, etc. fall into this category.
+2.5.2 Non-ideal Solutions
+
+
+When a solution does not obey Raoult’s law over the entire range of concentration, then it is called non-ideal solution. The vapour pressure of such a solution is either higher or lower than that predicted by Raoult’s law (equation 2.16). If it is higher, the solution exhibits positive deviation and if it is lower, it exhibits negative deviation from Raoult’s law. The plots of vapour pressure as a function of mole fractions for such solutions are shown in Fig. 2.6.
+    
+
+
+
+
+
+
+Fig.2.6 The vapour pressures of two component systems as a function of composition (a) a solution that shows positive deviation from Raoult’s law and (b) a solution that shows negative deviation from Raoult’s law.
+
+
+
+The cause for these deviations lie in the nature of interactions at the molecular level. In case of positive deviation from Raoult’s law, A-B interactions are weaker than those between A-A or B-B, i.e., in this case the intermolecular attractive forces between the solute-solvent molecules are weaker than those between the solute-solute and solvent-solvent molecules. This means that in such solutions, molecules of A (or B) will find it easier to escape than in pure state. This will increase the vapour pressure and result in positive deviation. Mixtures of ethanol and acetone behave in this manner. In pure ethanol, molecules are hydrogen bonded. On adding acetone, its molecules get in between the host molecules and break some of the hydrogen bonds between them. Due to weakening of interactions, the solution shows positive deviation from Raoult’s law [Fig. 2.6 (a)]. In a solution formed by adding carbon disulphide to acetone, the dipolar interactions between solute-solvent molecules are weaker than the respective interactions among the solute-solute and solvent-solvent molecules. This solution also shows positive deviation.
+
+
+
+
+
+
+
+
+In case of negative deviations from Raoult’s law, the intermolecular attractive forces between A-A and B-B are weaker than those between A-B and leads to decrease in vapour pressure resulting in negative deviations. An example of this type is a mixture of phenol and aniline. In this case the intermolecular hydrogen bonding between phenolic proton and lone pair on nitrogen atom of aniline is stronger than the respective intermolecular hydrogen bonding between similar molecules. Similarly, a mixture of chloroform and acetone forms a solution with negative deviation from Raoult’s law. This is because chloroform molecule is able to form hydrogen bond with acetone molecule as shown.
+
+This decreases the escaping tendency of molecules for each component and consequently the vapour pressure decreases resulting in negative deviation from Raoult’s law [Fig. 2.6. (b)].
+Some liquids on mixing, form azeotropes which are binary mixtures having the same composition in liquid and vapour phase and boil at a constant temperature. In such cases, it is not possible to separate the components by fractional distillation. There are two types of azeotropes called minimum boiling azeotrope and maximum boiling azeotrope. The solutions which show a large positive deviation from Raoult’s law form minimum boiling azeotrope at a specific composition. For example, ethanol-water mixture (obtained by fermentation of sugars) on fractional distillation gives a solution containing approximately 95% by volume of ethanol. Once this composition, known as azeotrope composition, has been achieved, the liquid and vapour have the same composition, and no further separation occurs.
+
+
+
+The solutions that show large negative deviation from Raoult’s law form maximum boiling azeotrope at a specific composition. Nitric acid and water is an example of this class of azeotrope. This azeotrope has the approximate composition, 68% nitric acid and 32% water by mass, with a boiling point of 393.5 K.
+
+Intext Question
+
+2.8 The vapour pressure of pure liquids A and B are 450 and 700 mm Hg respectively, at 350 K . Find out the composition of the liquid mixture if total vapour pressure is 600 mm Hg. Also find the composition of the vapour phase.
+
+
+
+
+2.6 Colligative Properties and Determination of Molar Mass
+
+
+
+      We have learnt in Section 2.4.3 that the vapour pressure of solution decreases when a non-volatile solute is added to a volatile solvent. There are many properties of solutions which are connected with this decrease of vapour pressure. These are: (1) relative lowering of vapour pressure of the solvent (2) depression of freezing point of the solvent (3) elevation of boiling point of the solvent and (4) osmotic pressure of the solution. All these properties depend on the number of solute particles irrespective of their nature relative to the total number of particles present in the solution. Such properties are called colligative properties (colligative: from Latin: co means together, ligare means to bind). In the following Sections we will discuss these properties one by one.
+
+2.6.1 Relative Lowering of Vapour Pressure
+We have learnt in Section 2.4.3 that the vapour pressure of a solvent in solution is less than that of the pure solvent. Raoult established that the lowering of vapour pressure depends only on the concentration of the solute particles and it is independent of their identity. The equation (2.20) given in Section 2.4.3 establishes a relation between vapour pressure of the solution, mole fraction and vapour pressure of the solvent, i.e.,
+p1 = x1 p10                                                                                                                  (2.22)
+The reduction in the vapour pressure of solvent (∆p1) is given as:
+∆p1 = p10 – p1 = p10 - p10 x1
+= p10 (1 – x1)                                                                                         (2.23)
+Knowing that x2 = 1 – x1, equation (2.23) reduces to
+∆p1 = x2 p10                                                                                                               (2.24)
+In a solution containing several non-volatile solutes, the lowering of the vapour pressure depends on the sum of the mole fraction of different solutes.
+Equation (2.24) can be written as
+=  = x2                                                                                                (2.25)
+
+
+
+
+The expression on the left hand side of the equation as mentioned earlier is called relative lowering of vapour pressure and is equal to the mole fraction of the solute. The above equation can be written as:
+
+
+
+
+ =                                              (2.26)
+
+
+Here n1 and n2 are the number of moles of solvent and solute respectively present in the solution. For dilute solutions n2 < < n1, hence neglecting n2 in the denominator we have
+
+
+ =                                                                                     (2.27)
+or  =                                                                           (2.28)
+Here w1 and w2 are the masses and M1 and M2 are the molar masses of the solvent and solute respectively.
+From this equation (2.28), knowing all other quantities, the molar mass of solute (M2) can be calculated.
+
+Example 2.6
+
+
+The vapour pressure of pure benzene at a certain temperature is 0.850 bar. A non-volatile, non-electrolyte solid weighing 0.5 g when added to 39.0 g of benzene (molar mass 78 g mol-1). Vapour pressure of the solution, then, is 0.845 bar. What is the molar mass of the solid substance?
+Solution
+The various quantities known to us are as follows:
+p10 = 0.850 bar; p = 0.845 bar; M1 = 78 g mol–1; w2 = 0.5 g; w1 = 39 g
+Substituting these values in equation (2.28), we get
+= 
+Therefore, M2 = 170 g mol–1
+
+
+2.6.2 Elevation of Boiling Point
+We have learnt in Unit 5, Class XI, that the vapour pressure of a liquid increases with increase of temperature. It boils at the temperature at which its vapour pressure is equal to the atmospheric pressure. For example, water boils at 373.15 K (100° C) because at this temperature the vapour pressure of water is 1.013 bar (1 atmosphere). We have also learnt in the last section that vapour pressure of the solvent decreases in the presence of non-volatile solute. Fig. 2.7 depicts the variation of vapour pressure of the pure solvent and solution as a function of temperature. For example, the vapour pressure of an aqueous solution of sucrose is less than 1.013 bar at 373.15 K. In order to make this solution boil, its vapour pressure must be increased to 1.013 bar by raising the temperature above the boiling temperature of the pure solvent (water). Thus, the boiling point of a solution is always higher than that of the boiling point of the pure solvent in which the solution is prepared as shown in Fig. 2.7. Similar to lowering of vapour pressure, the elevation of boiling point also depends on the number of solute molecules rather than their nature. A solution of 1 mol of sucrose in 1000 g of water boils at 373.52 K at one atmospheric pressure.
+
+Fig. 2.7: The vapour pressure curve for solution lies below the curve for pure water. The diagram shows that ∆Tb denotes the elevation of boiling point of a solvent in solution.
+
+Let  be the boiling point of pure solvent and  be the boiling point of solution. The increase in the boiling point  is known as elevation of boiling point.
+Experiments have shown that for dilute solutions the elevation of boiling point (∆Tb) is directly proportional to the molal concentration of the solute in a solution. Thus
+∆Tb ∝ m                                                                                                (2.29)
+or ∆Tb = Kb m                                                                                        (2.30)
+
+
+
+
+
+Here m (molality) is the number of moles of solute dissolved in 1 kg of solvent and the constant of proportionality, Kb is called Boiling Point Elevation Constant or Molal Elevation Constant (Ebullioscopic Constant). The unit of Kb is K kg mol-1. Values of Kb for some common solvents are given in Table 2.3. If w2 gram of solute of molar mass M2 is dissolved in w1 gram of solvent, then molality, m of the solution is given by the expression:
+m =  =                                                                                (2.31)
+Substituting the value of molality in equation (2.30) we get
+∆Tb =                                                                                 (2.32)
+M2 =                                                                                   (2.33)
+Thus, in order to determine M2, molar mass of the solute, known mass of solute in a known mass of the solvent is taken and ∆Tb is determined experimentally for a known solvent whose Kb value is known.
+
+Example 2.7
+
+
+
+
+
+
+
+
+18 g of glucose, C6H12O6, is dissolved in 1 kg of water in a saucepan. At what temperature will water boil at 1.013 bar? Kb for water is 0.52 K kg mol-1.
+Solution
+Moles of glucose = 18 g/ 180 g mol–1 = 0.1 mol
+Number of kilograms of solvent = 1 kg
+Thus molality of glucose solution = 0.1 mol kg-1
+
+
+        For water, change in boiling point
+      
+
+∆Tb = Kb × m = 0.52 K kg mol–1 × 0.1 mol kg–1 = 0.052 K
+Since water boils at 373.15 K at 1.013 bar pressure, therefore, the boiling point of solution will be 373.15 + 0.052 = 373.202 K.
+
+
+
+
+
+Example 2.8
+The boiling point of benzene is 353.23 K. When 1.80 g of a non-volatile solute was dissolved in 90 g of benzene, the boiling point is raised to 354.11 K. Calculate the molar mass of the solute. Kb for benzene is 2.53 K kg mol–1
+
+
+Solution
+
+
+The elevation (∆Tb) in the boiling point = 354.11 K – 353. 23 K = 0.88 K
+Substituting these values in expression (2.33) we get
+M2 =  = 58 g mol–1
+
+Therefore, molar mass of the solute, M2 = 58 g mol–1
+
+
+
+
+2.6.3 Depression of Freezing Point
+The lowering of vapour pressure of a solution causes a lowering of the freezing point compared to that of the pure solvent (Fig. 2 8). We know that at the freezing point of a substance, the solid phase is in dynamic equilibrium with the liquid phase. Thus, the freezing point of a substance may be defined as the temperature at which the vapour pressure of the substance in its liquid phase is equal to its vapour pressure in the solid phase. A solution will freeze when its vapour pressure equals the vapour pressure of the pure solid solvent as is clear from Fig. 2.8. According to Raoult’s law, when a non-volatile solid is added to the solvent its vapour pressure decreases and now it would become equal to that of solid solvent at lower temperature. Thus, the freezing point of the solvent decreases.
+
+Fig. 2.8: Diagram showing ∆Tf, depression of the freezing point of a solvent in a solution.
+
+Let  be the freezing point of pure solvent and  be its freezing point when non-volatile solute is dissolved in it. The decrease in freezing point.
+ is known as depression in freezing point.
+Similar to elevation of boiling point, depression of freezing point (∆Tf) for dilute solution (ideal solution) is directly proportional to molality, m of the solution. Thus,
+∆Tf ∝ m
+or ∆Tf = Kf m                                                                                                (2.34)
+The proportionality constant, Kf, which depends on the nature of the solvent is known as Freezing Point Depression Constant or Molal Depression Constant or Cryoscopic Constant. The unit of Kf is K kg mol-1. Values of Kf for some common solvents are listed in Table 2.3.
+If w2 gram of the solute having molar mass as M2, present in w1 gram of solvent, produces the depression in freezing point ∆Tf of the solvent then molality of the solute is given by the equation (2.31).
+m =                                                                                              (2.31)
+Substituting this value of molality in equation (2.34) we get:
+∆Tf = 
+∆Tf =                                                                                     (2.35)
+M2 =                                                                                     (2.36)
+Thus for determining the molar mass of the solute we should know the quantities w1, w2, ∆Tf, along with the molal freezing point depression constant.
+The values of Kf and Kb, which depend upon the nature of the solvent, can be ascertained from the following relations.
+Kf =                                                                                          (2.37)
+Kb =                                                                                          (2.38)
+Here the symbols R and M1 stand for the gas constant and molar mass of the solvent, respectively and Tf and Tb denote the freezing point and the boiling point of the pure solvent respectively in kelvin. Further, ∆fusH and ∆vapH represent the enthalpies for the fusion and vapourisation of the solvent, respectively.
+Table 2.3: Molal Boiling Point Elevation and Freezing Point Depression Constants for Some Solvents
+
+
+
+
+
+
+
+
+
+Example 2.9
+
+
+45 g of ethylene glycol (C2H6O2) is mixed with 600 g of water. Calculate (a) the freezing point depression and (b) the freezing point of the solution.
+Solution
+Depression in freezing point is related to the molality, therefore, the molality of the solution with respect to ethylene glycol =
+Moles of ethylene glycol =  = 0.73 mol
+Mass of water in kg = = 0.6 kg
+Hence molality of ethylene glycol =  = 1.2 mol kg–1
+Therefore freezing point depression,
+ΔTf = 1.86 K kg mol–1 × 1.2 mol kg–1 = 2.2 K
+Freezing point of the aqueous solution = 273.15 K – 2.2 K = 270.95 K
+Example 2.10
+1.00 g of a non-electrolyte solute dissolved in 50 g of benzene lowered the freezing point of benzene by 0.40 K. The freezing point depression constant of benzene is 5.12 K kg mol–1. Find the molar mass of the solute.
+Solution
+Substituting the values of various terms involved in equation (2.36) we get,
+M2 =  = 256 g mol-1
+Thus, molar mass of the solute = 256 g mol-1
+
+
+
+2.6.4 Osmosis and Osmotic Pressure
+There are many phenomena which we observe in nature or at home. For example, raw mangoes shrivel when pickled in brine (salt water); wilted flowers revive when placed in fresh water, blood cells collapse when suspended in saline water, etc. If we look into these processes we find one thing common in all, that is, all these substances are bound by membranes. These membranes can be of animal or vegetable origin and these occur naturally such as pig’s bladder or parchment or can be synthetic such as cellophane. These membranes appear to be continuous sheets or films, yet they contain a network of submicroscopic holes or pores. Small solvent molecules, like water, can pass through these holes but the passage of bigger molecules like solute is hindered. Membranes having this kind of properties are known as semipermeable membranes (SPM).
+Assume that only solvent molecules can pass through these semi-permeable membranes. If this membrane is placed between the solvent and solution as shown in Fig. 2.9, the solvent molecules will flow through the membrane from pure solvent to the solution. This process of flow of the solvent is called osmosis.
+
+
+Fig. 2.9 Level of solution rises in the thistle funnel due to osmosis of solvent.
+
+
+The flow will continue till the equilibrium is attained. The flow of the solvent from its side to solution side across a semipermeable membrane can be stopped if some extra pressure is applied on the solution. This pressure that just stops the flow of solvent is called osmotic pressure of the solution. The flow of solvent from dilute solution to the concentrated solution across a semipermeable membrane is due to osmosis. The important point to be kept in mind is that solvent molecules always flow from lower concentration to higher concentration of solution. The osmotic pressure has been found to depend on the concentration of the solution.
+
+
+Fig. 2.10: The excess pressure equal to the osmotic pressure must be applied on the solution side to prevent osmosis.
+
+
+The osmotic pressure of a solution is the excess pressure that must be applied to a solution to prevent osmosis, i.e., to stop the passage of solvent molecules through a semipermeable membrane into the solution. This is illustrated in Fig. 2.10. Osmotic pressure is a colligative property as it depends on the number of solute molecules and not on their identity. For dilute solutions, it has been found experimentally that osmotic pressure is proportional to the molarity, C of the solution at a given temperature T. Thus:
+π = C R T                                                                                                         (2.39)
+Here π is the osmotic pressure and R is the gas constant.
+π = (n2 /V) R T                                                                                                 (2.40)
+
+
+Here V is volume of a solution in litres containing n2 moles of solute. If w2 grams of solute, of molar mass, M2 is present in the solution, then n2 = w2 / M2 and we can write,
+
+π V =                                                                                                  (2.41)
+or M2 =                                                                                               (2.42)
+Thus, knowing the quantities w2, T, π and V we can calculate the molar mass of the solute.
+Measurement of osmotic pressure provides another method of determining molar masses of solutes. This method is widely used to determine molar masses of proteins, polymers and other macromolecules. The osmotic pressure method has the advantage over other methods as pressure measurement is around the room temperature and the molarity of the solution is used instead of molality. As compared to other colligative properties, its magnitude is large even for very dilute solutions. The technique of osmotic pressure for determination of molar mass of solutes is particularly useful for biomolecules as they are generally not stable at higher temperatures and polymers have poor solubility.
+Two solutions having same osmotic pressure at a given temperature are called isotonic solutions. When such solutions are separated by semipermeable membrane no osmosis occurs between them. For example, the osmotic pressure associated with the fluid inside the blood cell is equivalent to that of 0.9% (mass/volume) sodium chloride solution, called normal saline solution and it is safe to inject intravenously. On the other hand, if we place the cells in a solution containing more than 0.9% (mass/volume) sodium chloride, water will flow out of the cells and they would shrink. Such a solution is called hypertonic. If the salt concentration is less than 0.9% (mass/volume), the solution is said to be hypotonic. In this case, water will flow into the cells if placed in this solution and they would swell.
+
+Example 2.11
+200 cm3 of an aqueous solution of a protein contains 1.26 g of the protein. The osmotic pressure of such a solution at 300 K is found to be 2.57 × 10-3 bar. Calculate the molar mass of the protein.
+Solution
+The various quantities known to us are as follows: Π = 2.57 × 10–3 bar,
+V = 200 cm3 = 0.200 litre
+T = 300 K
+R = 0.083 L bar mol-1 K-1
+Substituting these values in equation (2.42) we get
+
+M2 =  = 61,022 g mol-1
+
+
+
+
+
+The phenomena mentioned in the beginning of this section can be explained on the basis of osmosis. A raw mango placed in concentrated salt solution loses water via osmosis and shrivel into pickle. Wilted flowers revive when placed in fresh water. A carrot that has become limp because of water loss into the atmosphere can be placed into the water making it firm once again. Water will move into its cells through osmosis. When placed in water containing less than 0.9% (mass/volume) salt, blood cells swell due to flow of water in them by osmosis. People taking a lot of salt or salty food experience water retention in tissue cells and intercellular spaces because of osmosis. The resulting puffiness or swelling is called edema. Water movement from soil into plant roots and subsequently into upper portion of the plant is partly due to osmosis. The preservation of meat by salting and of fruits by adding sugar protects against bacterial action. Through the process of osmosis, a bacterium on salted meat or candid fruit loses water, shrivels and dies.
+
+2.6.5 Reverse Osmosis and Water Purification
+The direction of osmosis can be reversed if a pressure larger than the osmotic pressure is applied to the solution side. That is, now the pure solvent flows out of the solution through the semi permeable membrane. This phenomenon is called reverse osmosis and is of great practical utility. Reverse osmosis is used in desalination of sea water. A schematic set up for the process is shown in Fig. 2.11. When pressure more than osmotic pressure is applied, pure water is squeezed out of the sea water through the membrane. A variety of polymer membranes are available for this purpose.
+
+
+
+Fig. 2.11: Reverse osmosis occurs when a pressure larger than the osmotic pressure is applied to the solution.
+
+The pressure required for the reverse osmosis is quite high. A workable porous membrane is a film of cellulose acetate placed over a suitable support. Cellulose acetate is permeable to water but impermeable to impurities and ions present in sea water. These days many countries use desalination plants to meet their potable water requirements.
+
+Intext Questions
+2.9 Vapour pressure of pure water at 298 K is 23.8 mm Hg. 50 g of urea (NH2CONH2) is dissolved in 850 g of water. Calculate the vapour pressure of water for this solution and its relative lowering.
+2.10 Boiling point of water at 750 mm Hg is 99.63°C. How much sucrose is to be added to 500 g of water such that it boils at 100°C.
+2.11 Calculate the mass of ascorbic acid (Vitamin C, C6H8O6) to be dissolved in 75 g of acetic acid to lower its melting point by 1.5°C. Kf = 3.9 K kg mol-1.
+2.12 Calculate the osmotic pressure in pascals exerted by a solution prepared by dissolving 1.0 g of polymer of molar mass 185,000 in 450 mL of water at 37°C.
+
+
+
+
+2.7 Abnormal Molar Masses
+
+
+We know that ionic compounds when dissolved in water dissociate into cations and anions. For example, if we dissolve one mole of KCl (74.5 g) in water, we expect one mole each of K+ and Cl– ions to be released in the solution. If this happens, there would be two moles of particles in the solution. If we ignore interionic attractions, one mole of KCl in one kg of water would be expected to increase the boiling point by 2 × 0.52 K = 1.04 K. Now if we did not know about the degree of dissociation, we could be led to conclude that the mass of 2 mol particles is 74.5 g and the mass of one mole of KCl would be 37.25 g. This brings into light the rule that, when there is dissociation of solute into ions, the experimentally determined molar mass is always lower than the true value.
+
+2 CH3COOH  ⇋  (CH3COOH)2
+
+
+
+
+
+Molecules of ethanoic acid (acetic acid) dimerise in benzene due to hydrogen bonding. This normally happens in solvents of low dielectric constant. In this case the number of particles is reduced due to dimerisation. Association of molecules is depicted as follows:
+It can be undoubtedly stated here that if all the molecules of ethanoic acid associate in benzene, then ∆Tb or ∆Tf for ethanoic acid will be half of the normal value. The molar mass calculated on the basis of this ∆Tb or ∆Tf will, therefore, be twice the expected value. Such a molar mass that is either lower or higher than the expected or normal value is called as abnormal molar mass.
+
+
+
+In 1880 van’t Hoff introduced a factor i, known as the van’t Hoff factor, to account for the extent of dissociation or association. This factor i is defined as:
+
+
+
+
+
+
+Here abnormal molar mass is the experimentally determined molar mass and calculated colligative properties are obtained by assuming that the non-volatile solute is neither associated nor dissociated. In case of association, value of i is less than unity while for dissociation it is greater than unity. For example, the value of i for aqueous KCl solution is close to 2, while the value for ethanoic acid in benzene is nearly 0.5.
+Inclusion of van’t Hoff factor modifies the equations for colligative properties as follows:
+Relative lowering of vapour pressure of solvent,
+
+Elevation of Boiling point, ∆Tb = i Kb m
+Depression of Freezing point, ∆Tf = i Kf m
+Osmotic pressure of solution, Π = i n2 R T / V
+
+
+
+
+
+Table 2.4 depicts values of the factor, i for several strong electrolytes. For KCl, NaCl and MgSO4, i values approach 2 as the solution becomes very dilute. As expected, the value of i gets close to 3 for K2SO4.
+
+
+
+
+
+
+
+Table 2.4: Values of van’t Hoff factor, i, at Various Concentrations for NaCl, KCl, MgSO4 and K2SO4.
+
+
+
+
+
+
+
+Example 2.12
+
+
+2 g of benzoic acid (C6H5COOH) dissolved in 25 g of benzene shows a depression in freezing point equal to 1.62 K. Molal depression constant for benzene is 4.9 K kg mol–1. What is the percentage association of acid if it forms dimer in solution?
+Solution
+The given quantities are: w2 = 2 g; Kf = 4.9 K kg mol–1; w1 = 25 g,
+∆Tf = 1.62 K
+Substituting these values in equation (2.36) we get:
+M2 = = 241.98 g mol–1
+Thus, experimental molar mass of benzoic acid in benzene is
+= 241.98 g mol–1
+Now consider the following equilibrium for the acid:
+2 C6H5COOH  ⇋ (C6H5COOH)2
+If x represents the degree of association of the solute then we would have (1 – x) mol of benzoic acid left in unassociated form and correspondingly  as associated moles of benzoic acid at equilibrium. Therefore, total number of moles of particles at equilibrium is:
+
+Thus, total number of moles of particles at equilibrium equals van’t Hoff factor i.
+But 
+= 
+or  = 
+or x = 2 × 0 .496 = 0.992
+Therefore, degree of association of benzoic acid in benzene is 99.2 %.
+Example 2.13
+0.6 mL of acetic acid (CH3COOH), having density 1.06 g mL–1, is dissolved in 1 litre of water. The depression in freezing point observed for this strength of acid was 0.0205°C. Calculate the van’t Hoff factor and the dissociation constant of acid.
+
+
+
+Solution
+
+
+
+Number of moles of acetic acid = 
+= 0.0106 mol = n
+Molality =  = 0.0106 mol kg–1
+Using equation (2.35)
+∆Tf = 1.86 K kg mol–1 × 0.0106 mol kg–1 = 0.0197 K
+van’t Hoff Factor (i) = =  = 1.041
+Acetic acid is a weak electrolyte and will dissociate into two ions: acetate and hydrogen ions per molecule of acetic acid. If x is the degree of dissociation of acetic acid, then we would have n (1 – x) moles of undissociated acetic acid, nx moles of CH3COO– and nx moles of H+ ions,
+
+Thus total moles of particles are: n(1 – x + x + x) = n(1 + x)
+
+Thus degree of dissociation of acetic acid = x = 1.041– 1.000 = 0.041
+Then [CH3COOH] = n(1 – x) = 0.0106 (1 – 0.041),
+[CH3COO–] = nx = 0.0106 × 0.041, [H+] = nx = 0.0106 × 0.041.
+Ka =  = 
+= 1.86 × 10–5
+
+
+
+
+
+
+
+Summary
+A solution is a homogeneous mixture of two or more substances. Solutions are classified as solid, liquid and gaseous solutions. The concentration of a solution is expressed in terms of mole fraction, molarity, molality and in percentages. The dissolution of a gas in a liquid is governed by Henry’s law, according to which, at a given temperature, the solubility of a gas in a liquid is directly proportional to the partial pressure of the gas. The vapour pressure of the solvent is lowered by the presence of a non-volatile solute in the solution and this lowering of vapour pressure of the solvent is governed by Raoult’s law, according to which the relative lowering of vapour pressure of the solvent over a solution is equal to the mole fraction of a non-volatile solute present in the solution. However, in a binary liquid solution, if both the components of the solution are volatile then another form of Raoult’s law is used. Mathematically, this form of the Raoult’s law is stated as:. Solutions which obey Raoult’s law over the entire range of concentration are called ideal solutions. Two types of deviations from Raoult’s law, called positive and negative deviations are observed. Azeotropes arise due to very large deviations from Raoult’s law.
+The properties of solutions which depend on the number of solute particles and are independent of their chemical identity are called colligative properties. These are lowering of vapour pressure, elevation of boiling point, depression of freezing point and osmotic pressure. The process of osmosis can be reversed if a pressure higher than the osmotic pressure is applied to the solution. Colligative properties have been used to determine the molar mass of solutes. Solutes which dissociate in solution exhibit molar mass lower than the actual molar mass and those which associate show higher molar mass than their actual values.
+
+Quantitatively, the extent to which a solute is dissociated or associated can be expressed by van’t Hoff factor i. This factor has been defined as ratio of normal molar mass to experimentally determined molar mass or as the ratio of observed colligative property to the calculated colligative property.
+
+
+
+
+Excercise
+
+2.1 Define the term solution. How many types of solutions are formed? Write briefly about each type with an example.
+2.2 Give an example of a solid solution in which the solute is a gas.
+2.3 Define the following terms:
+(i) Mole fraction (ii) Molality (iii) Molarity (iv) Mass percentage.
+2.4 Concentrated nitric acid used in laboratory work is 68% nitric acid by mass in aqueous solution. What should be the molarity of such a sample of the acid if the density of the solution is 1.504 g mL–1?
+2.5 A solution of glucose in water is labelled as 10% w/w, what would be the molality and mole fraction of each component in the solution? If the density of solution is 1.2 g mL–1, then what shall be the molarity of the solution?
+2.6 How many mL of 0.1 M HCl are required to react completely with 1 g mixture of Na2CO3 and NaHCO3 containing equimolar amounts of both?
+2.7 A solution is obtained by mixing 300 g of 25% solution and 400 g of 40% solution by mass. Calculate the mass percentage of the resulting solution.
+2.8 An antifreeze solution is prepared from 222.6 g of ethylene glycol (C2H6O2) and 200 g of water. Calculate the molality of the solution. If the density of the solution is 1.072 g mL–1, then what shall be the molarity of the solution?
+2.9 A sample of drinking water was found to be severely contaminated with chloroform (CHCl3) supposed to be a carcinogen. The level of contamination was 15 ppm (by mass):
+(i) express this in percent by mass
+(ii) determine the molality of chloroform in the water sample.
+2.10 What role does the molecular interaction play in a solution of alcohol and water?
+2.11 Why do gases always tend to be less soluble in liquids as the temperature is raised?
+2.12 State Henry’s law and mention some important applications.
+2.13 The partial pressure of ethane over a solution containing 6.56 × 10–3 g of ethane is 1 bar. If the solution contains 5.00 × 10–2 g of ethane, then what shall be the partial pressure of the gas?
+2.14 What is meant by positive and negative deviations from Raoult’s law and how is the sign of ∆mixH related to positive and negative deviations from Raoult’s law?
+2.15 An aqueous solution of 2% non-volatile solute exerts a pressure of 1.004 bar at the normal boiling point of the solvent. What is the molar mass of the solute?
+2.16 Heptane and octane form an ideal solution. At 373 K, the vapour pressures of the two liquid components are 105.2 kPa and 46.8 kPa respectively. What will be the vapour pressure of a mixture of 26.0 g of heptane and 35 g of octane?
+2.17 The vapour pressure of water is 12.3 kPa at 300 K. Calculate vapour pressure of 1 molal solution of a non-volatile solute in it.
+2.18 Calculate the mass of a non-volatile solute (molar mass 40 g mol–1) which should be dissolved in 114 g octane to reduce its vapour pressure to 80%.
+2.19 A solution containing 30 g of non-volatile solute exactly in 90 g of water has a vapour pressure of 2.8 kPa at 298 K. Further, 18 g of water is then added to the solution and the new vapour pressure becomes 2.9 kPa at 298 K. Calculate:
+(i) molar mass of the solute (ii) vapour pressure of water at 298 K.
+2.20 A 5% solution (by mass) of cane sugar in water has freezing point of 271K. Calculate the freezing point of 5% glucose in water if freezing point of pure water is 273.15 K.
+
+
+2.21 Two elements A and B form compounds having formula AB2 and AB4. When dissolved in 20 g of benzene (C6H6), 1 g of AB2 lowers the freezing point by 
+
+
+2.3 K whereas 1.0 g of AB4 lowers it by 1.3 K. The molar depression constant for benzene is 5.1 K kg mol–1. Calculate atomic masses of A and B.
+
+2.22 At 300 K, 36 g of glucose present in a litre of its solution has an osmotic pressure of 4.98 bar. If the osmotic pressure of the solution is 1.52 bars at the same temperature, what would be its concentration?
+2.23 Suggest the most important type of intermolecular attractive interaction in the following pairs.
+(i) n-hexane and n-octane
+(ii) I2 and CCl4
+(iii) NaClO4 and water
+(iv) methanol and acetone
+(v) acetonitrile (CH3CN) and acetone (C3H6O).
+2.24 Based on solute-solvent interactions, arrange the following in order of increasing solubility in n-octane and explain. Cyclohexane, KCl, CH3OH, CH3CN.
+2.25 Amongst the following compounds, identify which are insoluble, partially soluble and highly soluble in water?
+(i) phenol                         (ii) toluene                               (iii) formic acid
+(iv) ethylene glycol          (v) chloroform                         (vi) pentanol.
+2.26 If the density of some lake water is 1.25g mL–1 and contains 92 g of Na+ ions per kg of water, calculate the molality of Na+ ions in the lake.
+2.27 If the solubility product of CuS is 6 × 10–16, calculate the maximum molarity of CuS in aqueous solution.
+2.28 Calculate the mass percentage of aspirin (C9H8O4) in acetonitrile (CH3CN) when 6.5 g of C9H8O4 is dissolved in 450 g of CH3CN.
+2.29 Nalorphene (C19H21NO3), similar to morphine, is used to combat withdrawal symptoms in narcotic users. Dose of nalorphene generally given is 1.5 mg. Calculate the mass of 1.5 – 10–3 m aqueous solution required for the above dose.
+2.30 Calculate the amount of benzoic acid (C6H5COOH) required for preparing 250 mL of 0.15 M solution in methanol.
+2.31 The depression in freezing point of water observed for the same amount of acetic acid, trichloroacetic acid and trifluoroacetic acid increases in the order given above. Explain briefly.
+
+
+2.32 Calculate the depression in the freezing point of water when 10 g of CH3CH2CHClCOOH is added to 250 g of water. Ka = 1.4 × 10–3, Kf = 1.86 
+
+
+K kg mol–1.
+
+2.33 19.5 g of CH2FCOOH is dissolved in 500 g of water. The depression in the freezing point of water observed is 1.00 C. Calculate the van’t Hoff factor and dissociation constant of fluoroacetic acid.
+2.34 Vapour pressure of water at 293 K is 17.535 mm Hg. Calculate the vapour pressure of water at 293 K when 25 g of glucose is dissolved in 450 g of water.
+
+
+2.35 Henry’s law constant for the molality of methane in benzene at 298 K is
+
+
+4.27 × 105 mm Hg. Calculate the solubility of methane in benzene at 298 K under 760 mm Hg.
+
+2.36 100 g of liquid A (molar mass 140 g mol–1) was dissolved in 1000 g of liquid B (molar mass 180 g mol–1). The vapour pressure of pure liquid B was found to be 500 torr. Calculate the vapour pressure of pure liquid A and its vapour pressure in the solution if the total vapour pressure of the solution is 475 Torr.
+2.37 Vapour pressures of pure acetone and chloroform at 328 K are 741.8 mm Hg and 632.8 mm Hg respectively. Assuming that they form ideal solution over the entire range of composition, plot ptotal, pchloroform, and pacetone as a function of xacetone. The experimental data observed for different compositions of mixture is:
+
+Plot this data also on the same graph paper. Indicate whether it has positive deviation or negative deviation from the ideal solution.
+2.38 Benzene and toluene form ideal solution over the entire range of composition. The vapour pressure of pure benzene and toluene at 300 K are 50.71 mm Hg and 32.06 mm Hg respectively. Calculate the mole fraction of benzene in vapour phase if 80 g of benzene is mixed with 100 g of toluene.
+2.39 The air is a mixture of a number of gases. The major components are oxygen and nitrogen with approximate proportion of 20% is to 79% by volume at 298 K. The water is in equilibrium with air at a pressure of 10 atm. At 298 K if the Henry’s law constants for oxygen and nitrogen at 298 K are 3.30 × 107 mm and 6.51 × 107 mm respectively, calculate the composition of these gases in water.
+2.40 Determine the amount of CaCl2 (i = 2.47) dissolved in 2.5 litre of water such that its osmotic pressure is 0.75 atm at 27° C.
+2.41 Determine the osmotic pressure of a solution prepared by dissolving 25 mg of K2SO4 in 2 litre of water at 25° C, assuming that it is completely dissociated.
+
+
+
+
+
+
+
+
+
+
+
+Answers to Some Intext Questions
+2.1 C6H6 = 15.28%, CCl4 = 84.72%
+2.2 0.459, 0.541
+2.3 0.024 M, 0.03 M
+2.4 36.946 g
+2.5 1.5 mol kg–1 , 1.45 mol L–1 0.0263
+2.9 23.4 mm Hg
+2.10 121.67 g
+2.11 5.077 g
+2.12 30.96 Pa
+
+
+
+
+
+
+
+Table of Contents
+
+
+Unit 2
+
+Solutions
+
+Objectives
+
+2.1 Types of Solutions
+2.2 Expressing Concentration of Solutions
+
+2.3 Solubility
+
+2.3.1 Solubility of a Solid in a Liquid
+2.3.2 Solubility of a Gas in a Liquid
+
+
+
+2.4 Vapour Pressure of Liquid Solutions
+
+2.4.1 Vapour Pressure of Liquid-Liquid Solutions
+2.4.2 Raoult’s Law as a special case of Henry’s Law
+2.4.3 Vapour Pressure of Solutions of Solids in Liquids
+
+
+
+2.5 Ideal and Non-ideal Solutions
+
+2.5.1 Ideal Solutions
+2.5.2 Non-ideal Solutions
+
+
+
+2.6 Colligative Properties and Determination of Molar Mass
+
+2.6.1 Relative Lowering of Vapour Pressure
+2.6.2 Elevation of Boiling Point
+2.6.3 Depression of Freezing Point
+2.6.4 Osmosis and Osmotic Pressure
+2.6.5 Reverse Osmosis and Water Purification
+
+
+2.7 Abnormal Molar Masses
+Summary
+Excercise
+
+
+
+
+
+
+
+Landmarks
+
+Cover
+
+
+
+
+
+        Unit 2
+        Solutions
+      
+
+
+
+
