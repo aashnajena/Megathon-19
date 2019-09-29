@@ -27,12 +27,12 @@ def add_space(temp,i):
             return i
 
 
-def get_refined_sentences(directory,filename,create_clean_file):
-    if(create_clean_file):
-        os.system("iconv -c -f utf-8 -t ascii "+directory+"/"+filename+" > "+directory+"/"+"clean-"+filename)
+def get_refined_sentences(filename,create_clean_file):
+    # if(create_clean_file):
+    #     os.system("iconv -c -f utf-8 -t ascii "+directory+"/"+filename+" > "+directory+"/"+"clean-"+filename)
 
 
-    with open(directory+"/"+"clean-"+filename) as f:
+    with open(filename, encoding='ascii', errors='ignore') as f:
         data=f.read().splitlines() 
     data = list(filter(None, data))
     termination_punctuation=['?','.','!']        
@@ -62,13 +62,30 @@ def get_refined_sentences(directory,filename,create_clean_file):
         for k in m:
             k=k.replace('\t','')
             refine1.append(k)
-    for i,j in enumerate(refine1):
-        print(i,j)
-        
+
     return refine1
 
-def main():
-    directory="physics_data"
-    filename="keph101.txt"
-    create_clean_file=True
-    refined=get_refined_sentences(directory,filename,create_clean_file)
+def secondary(filename, create_clean_file=True):
+    refined2 = []
+    refined=get_refined_sentences(filename,create_clean_file)
+    unit = re.compile('^[0-9]')
+    unit2 = re.compile('^[0-9].')
+    for r in refined:
+        fl=0
+        if 'table' in r.lower() or 'problem' in r.lower() or 'fig' in r.lower():
+            fl = 1
+        if unit.search(r) or unit2.search(r):
+            # print(r)
+            fl = 1    
+        # if 'exercise' in r.lower() or 'exercises' in r.lower():
+        #     break     
+        for word in r:
+            if '?' in word or '!' in word:
+                fl = 1
+        if fl==0:
+            refined2.append(r)
+    # print (refined2)        
+    return refined2        
+
+
+# main()
